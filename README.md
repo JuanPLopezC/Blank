@@ -15,3 +15,4 @@ github test123
 
 This is the Readme for the new project of the Blank group
 
+Dette er for å teste mergefunksjonen. 
