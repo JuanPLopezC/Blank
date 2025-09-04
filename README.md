@@ -15,5 +15,12 @@ github test123
 
 This is the Readme for the new project of the Blank group
 
+
 Her har eg ein heilt genial ide. 
 Ein sykt bra ide, faktisk! 
+
+Directory
+
+  New file:
+  -Nerd picture
+
